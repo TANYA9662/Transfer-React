@@ -1,0 +1,17 @@
+.custom-navigation {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+    .custom-navigation .nav-item {
+        margin-right: 20px; /* Add spacing between navigation items */
+    }
+
+    .custom-navigation .nav-link {
+        color: white; /* Change the color of the navigation links */
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 16px;
+    }

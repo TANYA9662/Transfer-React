@@ -1,0 +1,2 @@
+C:\Users\Artur\OneDrive\Skrivbord\Solution3\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\Artur\OneDrive\Skrivbord\Group1.2ReactTransfer\Solution3\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
